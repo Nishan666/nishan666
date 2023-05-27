@@ -14,8 +14,8 @@
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/nishan666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/nishan666" height="30" width="40" /></a>
 <a href="https://twitter.com/nishank97003693" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nishank97003693" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nishan-kumar-53a945182/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nishan-kumar-53a945182/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/18002999/nishan-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18002999/nishan-kumar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nishan-kumar-53a945182/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nishan-kumar-53a945182/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18002999/nishan-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18002999/nishan-kumar" height="30" width="40" /></a>
 <a href="https://instagram.com/_nishan___6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nishan___6" height="30" width="40" /></a>
 </p>
 
